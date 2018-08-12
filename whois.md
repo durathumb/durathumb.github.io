@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Who is DuraThumb for? 
