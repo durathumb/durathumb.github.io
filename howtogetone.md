@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: How to get one
 ---
 
 1. Schedule a 15-minute fitting appointment (Currently only available in the San Francisco Bay area)
