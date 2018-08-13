@@ -4,7 +4,9 @@ title: Schedule an appointment
 ---
 
 By appointment only: email stella@durathumb.com 
+
 Length of time required to take measurements: 15 minutes
+
 Availability: 
   - Weekdays: Hands on Care, San Jose
   - Mon/Tues (12:30 - 2PM; 6-7:30 PM): [2242 Camden Ave, Suite 201, San Jose, CA](https://goo.gl/maps/NJN6yoPB2sH2)
