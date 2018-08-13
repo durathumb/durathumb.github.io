@@ -3,7 +3,7 @@ layout: page
 title: Schedule an appointment 
 ---
 
-By appointment only: email [stella@durathumb.com](stella@durathumb.com)
+By appointment only: email <span style="color:blue">stella@durathumb.com</span>
 
 Length of time required to take measurements: 15 minutes
 
